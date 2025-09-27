@@ -1,6 +1,6 @@
 # 🧪 NLP Internship - Task 2: Toxic Content Classification Website using Streamlit.
 
-Welcome to the **Toxic Content Classification Project** at **Cellula Technologies**! This project focuses on building an NLP application that classifies text (and image captions) as toxic or non-toxic, while exploring model optimization techniques such as **quantization** for large models.  
+Welcome to the **Toxic Content Classification Project** at **Cellula Technologies**! This project focuses on building an NLP application that classifies text (and image captions) as toxic or non-toxic. It also includes a research part exploring model optimization techniques for large models.  
 
 ---
 ![Alt text](./website_image_2.jpg)
