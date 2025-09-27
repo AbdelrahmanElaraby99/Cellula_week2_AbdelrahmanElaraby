@@ -4,6 +4,38 @@ Welcome to the **Toxic Content Classification Project** at **Cellula Technologie
 
 ---
 
+## 📂 Project Structure
+
+```
+Cellula_week2_AbdelrahmanElaraby
+¦   README.md
+¦   
++---TASK0_Research
+¦       Quantization.pdf
+¦       Quantization_tests.ipynb
+¦       
++---TASK1_Code
+    ¦   classifier.py
+    ¦   db_creation.py
+    ¦   imagecaption.py
+    ¦   main.py
+    ¦   requirements.txt
+    ¦   
+    +---.streamlit
+    ¦       config.toml
+    ¦       
+    ¦       
+    +---helping_files
+    ¦       best_model.weights.h5
+    ¦       cellula.jpg
+    ¦       label_encoder.pkl
+    ¦       tokenizer.pkl
+    ¦       website.db
+
+```
+
+---
+
 ## 🔍 Task Overview
 
 ### Task 0: Research Part
