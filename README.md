@@ -3,7 +3,9 @@
 Welcome to the **Toxic Content Classification Project** at **Cellula Technologies**! This project focuses on building an NLP application that classifies text (and image captions) as toxic or non-toxic, while exploring model optimization techniques such as **quantization** for large models.  
 
 ---
+![Alt text](./website_image_2.jpg)
 
+---
 ## 📂 Project Structure
 
 ```
